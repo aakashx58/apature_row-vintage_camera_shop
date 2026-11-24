@@ -1,0 +1,6 @@
+{
+  "name": "APERTURE ROW",
+  "description": "Vintage camera shop & servicing bench in Berlin. Hand-calibrated rangefinders, TLRs, SLRs, Super 8 and medium format cameras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
